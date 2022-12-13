@@ -1,19 +1,19 @@
 <h1 class="title">{{site.skills_title}}</h1>
 
 <div id="skills">
-  <input type="radio" id="all" name="filter" checked />
-  <label class="filter-button neumorphism-button" for="all">Hardware</label>
-  <input type="radio" id="language" name="filter" />
-  <label class="filter-button neumorphism-button" for="language">Software</label>
+  <input type="radio" id="Hardware" name="filter" checked />
+  <label class="filter-button neumorphism-button" for="Hardware">Hardware</label>
+  <input type="radio" id="Software" name="filter" />
+  <label class="filter-button neumorphism-button" for="Software">Software</label>
 
 
   {% for language in site.data.skills-hardware %}
-    <div skill-type="language" skill-weight="{{language.weight}}" data-aos="zoom-in">
+    <div skill-type="Hardware" skill-weight="{{language.weight}}" data-aos="zoom-in">
       {{language.name}}
     </div>
   {% endfor %}
   {% for framework in site.data.skills-software %}
-    <div skill-type="framework" skill-weight="{{framework.weight}}" data-aos="zoom-in">
+    <div skill-type="Software" skill-weight="{{framework.weight}}" data-aos="zoom-in">
       {{framework.name}}
     </div>
   {% endfor %}
