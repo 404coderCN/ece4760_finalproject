@@ -20,7 +20,7 @@ Example of a project:
     - tag: Node
 ```
 
-## skills-frameworks.yml
+## skills-hardware.yml
 
 * `name`: Name of your framework
 * `weight`: Describes how good you know the framework - values from 1 up to 5
@@ -32,7 +32,7 @@ Example of a framework:
   weight: 3
 ```
 
-## skills-languages.yml
+## skills-software.yml
 
 * `name`: Name of your programming language
 * `weight`: Describes how good you know the language - values from 1 up to 5
@@ -41,18 +41,6 @@ Example of a language:
 
 ```yml
 - name: CSS
-  weight: 3
-```
-
-## skills-tools.yml
-
-* `name`: Name of your dev tool
-* `weight`: Describes how good you know the tool - values from 1 up to 5
-
-Example of a dev tool:
-
-```yml
-- name: Git
   weight: 3
 ```
 
