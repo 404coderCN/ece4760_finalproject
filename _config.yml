@@ -4,7 +4,7 @@
 # title: This will be displayed as the website's name in your browser tab.
 title: ECE4760 final project
 # description: This will be meta HTML tag content. This can be ignored.
-description: Personal website powered by Jekyll
+description: Project website powered by Jekyll
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
 url: https://404codercn.github.io
@@ -15,17 +15,14 @@ remote_theme: longpdo/neumorphism
 username: a glove-controlled robot hand
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Jekyll Theme
+typing_text: Nice to meet you
 # email: Your E-Mail address for the email button.
-email: email@example.com
+email: yj253@cornell.edu
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
-github_username: longpdo
-codepen_username: exampleUser
-dev_username: exampleUser
-linkedin_username: exampleUser
-twitter_username: exampleUser
+github_username: 404coderCN
+youtube_username: JerryIndusties
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -35,7 +32,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
+about_me_description: Hi there, I'm a glove-controlled robot hand designed by Jerry Jin, Caroline Huang, and Canwen Zhang. My body is fully 3D printed and I can move all five of my fingers! My fingers are controlled by five servos in the arm and I listen to the command from whoever is wearing the control glove:) Wanna know more about how I work? Please read more below! Checkout a video of me on <a class="highlight-link" href="https://www.youtube.com/watch?v=G2LN8rhvrco&list=PLDqMkB5cbBA6AwYC_DElkDStUdOsTuIL7&index=33" target="_blank" rel="noreferrer"> YouTube </a>. You can also find my source code on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">Github</a>.
 
 # SKILLS SECTION
 # show_skills_card:
