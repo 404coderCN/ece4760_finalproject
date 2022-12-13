@@ -1,0 +1,28 @@
+# > name: Name of your framework
+# > weight: Describes how good you know the framework - values from 1 up to 5
+#
+# Example of a framework
+# - name: Framework
+#   weight: 5
+
+- name: Rapberry pi pico
+  weight: 5
+
+- name: Servo motors
+  weight: 3
+
+- name: Braided fishing wire
+  weight: 2
+
+- name: PLA
+  weight: 2
+
+- name: nRF24L01+ Transceiver 
+  weight: 3
+
+- name: Flex sensors
+  weight: 3
+
+- name: resistors
+  weight: 1
+
